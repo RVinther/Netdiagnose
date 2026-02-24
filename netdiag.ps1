@@ -18,6 +18,7 @@ $log = [Environment]::GetFolderPath("Desktop") + "\netdiag_log.txt"
 Start-Transcript $log -Force
 #       Logger alt i PowerShell-sessionen og gemmer det i den variabel, der indeholder stien til logfilen.
 #       Med -Force sikrer jeg, at scriptet kører og overskriver en tidligere logfil ved samme navn.
+
 function Section($sektion) {
     Write-Host ""
     Write-Host "==============================="
