@@ -21,7 +21,7 @@ Projektet samler teori fra netværk og OSI-modellen med mit ønske om, at lave e
 - Logger automatisk til skrivebordet med alle resultater
 - Fejlbeskeder med forslag til den mest sandsynlige løsning på eventuelle problemer
 
-## Mangler du en datatekniker-voksenelev?
+## Mangler du en datatekniker-voksenlærling?
 
 Foruden en stor passion for fodbold, Formula One, litteratur og familieliv, kan du forvente:
 
